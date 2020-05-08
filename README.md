@@ -12,21 +12,21 @@ Let's see something about Telegram dice 🎲&amp;🎯.
 ## File overview
 
 ### Scripts
-- throw.py      Throw darts / Roll dice.  
-- analysis.py   A simple analysis.  
+- `throw.py`      Throw darts / Roll dice.  
+- `analysis.py`   A simple analysis.  
 
 ### Results
-- results_dart_all_raw.txt    Raw data of response with JSON format.  
-- results_dice_all_raw.txt    JSON 格式的响应原始数据，分别对应着🎯和🎲。  
+- `results_dart_all_raw.txt`    Raw data of response with JSON format.  
+- `results_dice_all_raw.txt`    JSON 格式的响应原始数据，分别对应着🎯和🎲。  
 
-- results_dart_all.txt        Results after simple statistic.  
-- results_dice_all.txt        简单统计后得到的数据。  
+- `results_dart_all.txt`        Results after simple statistic.  
+- `results_dice_all.txt`        简单统计后得到的数据。  
 
 
 ## TODO
--[ ] statistical analysis 统计分析  
--[ ] Plotting 绘图分析  
--[ ] etc.
+- [ ] statistical analysis 统计分析  
+- [ ] Plotting 绘图分析  
+- [ ] etc.
 
 
 ## Copyright  
