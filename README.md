@@ -7,6 +7,8 @@ Let's see something about Telegram dice 🎲&amp;🎯.
 我们来看看有什么统计规律呢？
 
 
+**未完待续...**
+
 ## File overview
 
 ### Scripts
@@ -22,4 +24,16 @@ Let's see something about Telegram dice 🎲&amp;🎯.
 
 
 ## TODO
+-[ ] statistical analysis 统计分析  
 -[ ] Plotting 绘图分析  
+-[ ] etc.
+
+
+## Copyright  
+
+[GNU Affero General Public License v3.0](https://github.com/miaotony/BlogArchives/blob/master/LICENSE)  
+
+最终解释权归本项目开发者所有。  
+The final interpretation right belongs to the developer of the project.  
+
+Copyright © 2020 [MiaoTony](https://github.com/miaotony)  
