@@ -28,6 +28,7 @@ headers = {
     'Content-Type': 'application/x-www-form-urlencoded'
 }
 
+# 20k times
 for i in range(20000):
     print(i)
     time_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
@@ -41,6 +42,6 @@ for i in range(20000):
         with open('results_dice_raw.txt', 'a+', encoding='utf-8') as fout:
             fout.write(result)
             fout.write('\n')
-        time.sleep(2)
+        time.sleep(2)  # ATTENTION: Limitation is 20 msg/min/chat.
     except Exception as e:
         print(e)
